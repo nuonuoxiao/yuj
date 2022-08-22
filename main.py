@@ -15,7 +15,7 @@ app_id = 'wx4925d9506ab01b66'
 app_secret = '99a29dff1175150030d59aa7f185c5e1'
 
 user_id = 'o86SK5gepu_laF2FX-hvyJU2FecM'
-template_id = '9MVYvO1NqBjgvjOEzHTL1aDfItZ7SFCpfgY17VYztJw'
+template_id = '4kUDF6Pol2JubaVVk8TjQrRsPkansVlu6FTzXuinM_4'
 
 def get_weather():
   url = "http://autodev.openspeech.cn/csp/api/v2.1/weather?openId=aiuicus&clientType=android&sign=android&city=" + city
